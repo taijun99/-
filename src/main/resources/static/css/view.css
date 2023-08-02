@@ -1,0 +1,19 @@
+  <!-- 행사정보(view) css -->
+         .fesform{
+           margin-top: 5%;
+           margin-left: 15%;
+           margin-right: 15%;
+         }
+
+         .mb-1 {
+           text-align: center;
+         }
+
+         .form-label { /* 행사정보 */
+           font-weight: 900;
+           font-size: large;
+         }
+
+         .mb-7 { /* 제출버튼 */
+           margin-top: 3%;
+         }
